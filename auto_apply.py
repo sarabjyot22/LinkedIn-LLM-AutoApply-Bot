@@ -50,7 +50,7 @@ Environment variables required:
 Usage example:
 
   python auto_apply.py \
-      --resume-pdf ./Shivam_Sharma_Resume.pdf \
+      --resume-pdf ./Resume.pdf \
       --applicant-json ./applicant_info.json \
       --max-jobs 2 \
       --headless
