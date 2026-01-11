@@ -44,14 +44,12 @@
 .
 ├── auto_apply.py                 # main bot (login, job loop, Easy/External apply)
 ├── gemini_actions.py             # Gemini/LLM helper utilities (if used separately)
-├── resume_and_cover_maker2.py    # resume + cover-letter generation (LLM-backed)
-├── record_web_actions_firefox.py # optional Firefox-based macro recorder
-├── linkedin_auto_apply_bot_presentation.pptx  # project presentation (slides + demo)
+├── resume_and_cover_maker.py    # resume + cover-letter generation (LLM-backed)
 ├── README.md
 ├── METHODOLOGY.md
 ├── HOW_TO_USE.md
 ├── requirements.txt
-└── gemini_api_key.txt            # Gemini key (local only, gitignored)
+└── gemini_api_key.txt            # Gemini key
 ```
 
 ---
@@ -80,7 +78,7 @@ To increase your chances of selection:
 - You still keep a **base resume** in your own style as the source of truth.  
   The LLM only reshapes and highlights what you already provide, so the final PDFs stay honest but more attractive to recruiters and ATS.
 
-You can tune prompts (in `resume_and_cover_maker2.py` and Gemini helpers) to fit your personal brand.
+You can tune prompts (in `resume_and_cover_maker.py` and Gemini helpers) to fit your personal brand.
 
 ---
 
