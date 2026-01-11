@@ -31,7 +31,7 @@ BASE_DIR = Path(__file__).parent
 GEMINI_KEY_FILE = BASE_DIR / "gemini_api_key.txt"
 
 # These defaults are overridden by auto_apply.py at runtime:
-RESUME_PDF_PATH = BASE_DIR / "ASU_Resume_Template_Shivam.pdf"
+RESUME_PDF_PATH = BASE_DIR / "Resume_Template.pdf"
 JOB_DESC_PATH = BASE_DIR / "job.txt"
 
 RESUME_TEX_PATH = BASE_DIR / "resume_generated.tex"
