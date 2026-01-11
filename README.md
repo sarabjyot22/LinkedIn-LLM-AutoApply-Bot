@@ -1,4 +1,4 @@
-# 🚀 llm-linkedin-autoapply-bot
+# 🚀 LLM-LinkedIN-Autoapply-Bot
 
 > **An intelligent LinkedIn job application assistant**  
 > LLM-tailored resume & cover letter + LLM-guided UI interaction using safe click/type actions only.
