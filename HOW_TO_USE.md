@@ -167,6 +167,3 @@ in the terminal. The bot will try to close the browser and exit cleanly.
 5. Periodically check LinkedIn and external portals to confirm applications are being submitted correctly.
 
 ---
-
-Happy automating 🚀  
-…and may your tailored resumes catch the right recruiter eyes.
